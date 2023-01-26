@@ -3354,9 +3354,9 @@ Details see: &lt;a href="https://katalog.we-online.de/en/pbs/WCAP-CSST#vs_ct:1"&
 <label x="223.52" y="152.4" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q4" gate="G$1" pin="D"/>
-<wire x1="288.798" y1="177.546" x2="288.798" y2="180.086" width="0.1524" layer="91"/>
-<label x="288.798" y="180.086" size="1.778" layer="95"/>
+<pinref part="Q4" gate="G$1" pin="S"/>
+<wire x1="288.798" y1="167.386" x2="288.798" y2="164.846" width="0.1524" layer="91"/>
+<label x="288.798" y="164.846" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="T312V" class="0">
@@ -3366,9 +3366,9 @@ Details see: &lt;a href="https://katalog.we-online.de/en/pbs/WCAP-CSST#vs_ct:1"&
 <label x="200.66" y="137.16" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q6" gate="G$1" pin="D"/>
-<wire x1="273.558" y1="177.546" x2="273.558" y2="180.086" width="0.1524" layer="91"/>
-<label x="273.558" y="180.086" size="1.778" layer="95"/>
+<pinref part="Q6" gate="G$1" pin="S"/>
+<wire x1="273.558" y1="167.386" x2="273.558" y2="164.846" width="0.1524" layer="91"/>
+<label x="273.558" y="164.846" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="T212V" class="0">
@@ -3378,9 +3378,9 @@ Details see: &lt;a href="https://katalog.we-online.de/en/pbs/WCAP-CSST#vs_ct:1"&
 <label x="223.52" y="137.16" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q5" gate="G$1" pin="D"/>
-<wire x1="304.038" y1="177.546" x2="304.038" y2="180.086" width="0.1524" layer="91"/>
-<label x="304.038" y="180.086" size="1.778" layer="95"/>
+<pinref part="Q5" gate="G$1" pin="S"/>
+<wire x1="304.038" y1="167.386" x2="304.038" y2="164.846" width="0.1524" layer="91"/>
+<label x="304.038" y="164.846" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -3398,19 +3398,19 @@ Details see: &lt;a href="https://katalog.we-online.de/en/pbs/WCAP-CSST#vs_ct:1"&
 <label x="203.2" y="152.4" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q5" gate="G$1" pin="S"/>
-<wire x1="304.038" y1="167.386" x2="304.038" y2="164.846" width="0.1524" layer="91"/>
-<label x="304.038" y="164.846" size="1.778" layer="95"/>
+<pinref part="Q6" gate="G$1" pin="D"/>
+<wire x1="273.558" y1="177.546" x2="273.558" y2="180.086" width="0.1524" layer="91"/>
+<label x="273.558" y="180.086" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q4" gate="G$1" pin="S"/>
-<wire x1="288.798" y1="167.386" x2="288.798" y2="164.846" width="0.1524" layer="91"/>
-<label x="288.798" y="164.846" size="1.778" layer="95"/>
+<pinref part="Q4" gate="G$1" pin="D"/>
+<wire x1="288.798" y1="177.546" x2="288.798" y2="180.086" width="0.1524" layer="91"/>
+<label x="288.798" y="180.086" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q6" gate="G$1" pin="S"/>
-<wire x1="273.558" y1="167.386" x2="273.558" y2="164.846" width="0.1524" layer="91"/>
-<label x="273.558" y="164.846" size="1.778" layer="95"/>
+<pinref part="Q5" gate="G$1" pin="D"/>
+<wire x1="304.038" y1="177.546" x2="304.038" y2="180.086" width="0.1524" layer="91"/>
+<label x="304.038" y="180.086" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GP15" class="0">
